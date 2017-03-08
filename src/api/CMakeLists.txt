@@ -3,6 +3,7 @@
 
 set(api_srcs
   Volkszaehler.cpp
+  Emoncms.cpp
   MySmartGrid.cpp
   InfluxDB.cpp
   Null.cpp
